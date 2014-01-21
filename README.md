@@ -3,10 +3,8 @@ Blackjack Game
 Blackjack game was made for browser-based Python interpreter CodeSkulptor for the online course “An Introduction to Interactive Programming in Python” from RICE University. 
 
 **Rules**
-<<<<<<< HEAD
-
 =======
->>>>>>> b7ca9da6bed210e22cfcd6ff8d2ba3a8c7da7a6e
+
 Cards in Blackjack have the following values:
 
   * an ace may be valued as either 1 or 11 (player's choice),
