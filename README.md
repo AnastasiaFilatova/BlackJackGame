@@ -1,5 +1,6 @@
 Blackjack Game
 ===============
+
 Blackjack game was made for browser-based Python interpreter CodeSkulptor for the online course “An Introduction to Interactive Programming in Python” from RICE University. 
 
 **Rules**
